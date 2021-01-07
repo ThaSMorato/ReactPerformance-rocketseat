@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Create React App source git : https://github.com/patrickporto/workshop-performance-react
+
 viewport / windowing
+
 server-side handling
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
